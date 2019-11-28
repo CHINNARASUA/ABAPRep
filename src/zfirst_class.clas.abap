@@ -19,7 +19,7 @@ CLASS zfirst_class IMPLEMENTATION.
   ENDMETHOD.
 
   METHOD if_oo_adt_classrun~main.
-     out->write('Hello all !').
+     out->write('Hello all everyone !').
   ENDMETHOD.
 
 ENDCLASS.
